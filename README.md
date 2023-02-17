@@ -1,5 +1,5 @@
 # COVID-19-Analysis
-
+hggggggewoijfsirgjiosgjeoairgjoiearjgioarj
 - provided data from the COVID-19 pandemic to conduct analysis 
 - Utilized Python Pandas to extract, processed and analyzed raw data on COVID-19 cases in Canada
 - Analyzed the impact of COVID-19 regulations on the number of cases to validate the effectiveness of restrictions
